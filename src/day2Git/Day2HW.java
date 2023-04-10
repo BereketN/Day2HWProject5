@@ -8,4 +8,16 @@ public class Day2HW {
 		
 		System.out.println("Remote Repository");
 	}
+	
+	//Stash
+	public void divide(int a, int b) {
+		
+		System.out.println(a/b);
+	}
+	
+	//Push
+	public void multiply(int x, int y) {
+		
+		System.out.println(x*y);
+	}
 }
